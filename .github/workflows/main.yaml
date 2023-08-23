@@ -18,4 +18,5 @@ jobs:
         AWS_ACCESS_KEY_ID : ${{ secrets.AWS_ACCESS_KEY_ID }}
         AWS_SECRECT_ACCESS_KEY: ${{secrets.AWS_SECRECT_ACCESS_KEY}}
         AWS_SESSION_TOKEN : ${{secrets.AWS_SESSION_TOKEN}}
+        file-path: 'C:\Users\admin\Downloads\sm vita\Gitpractice\.github\workflows\app.py'
 
