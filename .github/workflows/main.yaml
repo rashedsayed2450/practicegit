@@ -3,7 +3,7 @@ name: Upload File
 on:
   Push:
     branches:
-    - master
+    - main
 
 jobs:
   deploy:
